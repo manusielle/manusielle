@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manusiele&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=manusielle&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge&labelColor=0d1117" />
 </div>
 
 <br/>
@@ -18,7 +18,7 @@
   <a href="https://x.com/siele0579">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X/Twitter"/>
   </a>
-  <a href="https://manusiele.kesug.com">
+  <a href="https://manusielle.kesug.com">
     <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117" alt="Portfolio"/>
   </a>
 </div>
@@ -57,7 +57,7 @@
     <tr>
      <td colspan="2" align="center">
        <img 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=manusiele&theme=dark&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=manusielle&theme=dark&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF" 
          alt="GitHub Streak"
        />
      </td>
@@ -65,7 +65,7 @@
     <tr>
       <td colspan="2">
         <!-- Line graph for contribution history instead of bar graph -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=manusiele&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true" alt="Contribution Graph"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=manusielle&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true" alt="Contribution Graph"/>
       </td>
     </tr>
   </table>
