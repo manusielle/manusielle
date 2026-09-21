@@ -65,7 +65,7 @@
     <tr>
       <td colspan="2">
        <img
-         src="https://raw.githubusercontent.com/manusiele/manusiele/output/contributions.svg"
+         src="https://raw.githubusercontent.com/manusielle/manusielle/output/contributions.svg"
          alt="GitHub Contribution Graph"
          width="100%"
        />
