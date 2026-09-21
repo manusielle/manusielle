@@ -63,13 +63,13 @@
      </td>
     </tr>
     <tr>
-      <td colspan="2">
-       <img
-         src="https://raw.githubusercontent.com/manusielle/manusielle/output/contributions.svg"
-         alt="GitHub Contribution Graph"
-         width="100%"
-       />
-     </td>
+<td colspan="2">
+  <img
+    src="https://raw.githubusercontent.com/manusielle/manusielle/output/contributions.svg"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
+</td>
     </tr>
   </table>
 </div>
