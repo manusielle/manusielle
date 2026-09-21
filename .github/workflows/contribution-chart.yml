@@ -1,20 +1,21 @@
-name: Update Contribution Graph
+name: Update Contribution Chart
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution graph
-        uses: pipipi-dev/gcchart@v1
+      - uses: pipipi-dev/gcchart@v1
         with:
           outputs: |
             contributions.svg
