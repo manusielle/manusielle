@@ -57,16 +57,19 @@
     <tr>
      <td colspan="2" align="center">
        <img 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=manusiele&theme=dark&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=manusielle&theme=dark&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF" 
          alt="GitHub Streak"
        />
      </td>
     </tr>
     <tr>
       <td colspan="2">
-        <!-- Line graph for contribution history instead of bar graph -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=manusielle&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true" alt="Contribution Graph"/>
-      </td>
+       <img
+         src="https://raw.githubusercontent.com/manusiele/manusiele/output/contributions.svg"
+         alt="GitHub Contribution Graph"
+         width="100%"
+       />
+     </td>
     </tr>
   </table>
 </div>
