@@ -57,7 +57,7 @@
     <tr>
      <td colspan="2" align="center">
        <img 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=manusielle&theme=dark&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=manusiele&theme=dark&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF" 
          alt="GitHub Streak"
        />
      </td>
